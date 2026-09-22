@@ -1,4 +1,4 @@
-package ifelse;
+package Patterns;
 
 public class Diamondpattern {
     public static void main(String[] args){
