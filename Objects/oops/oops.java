@@ -1,4 +1,3 @@
-
 //Abstraction
 abstract class Payment{
     abstract void pay();
